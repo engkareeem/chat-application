@@ -1,0 +1,52 @@
+Date : 2022-09-22 21:30:01
+Directory : d:\Workstation\vscode_projects\flutter\chatapp_release\lib
+Total : 22 files,  2089 codes, 33 comments, 122 blanks, all 2244 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         22 |      2,089 |         33 |        122 |      2,244 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                            |         22 |      2,089 |         33 |        122 |      2,244 |
+| auth                                                                                         |          2 |        355 |          2 |         14 |        371 |
+| home                                                                                         |          3 |        548 |          4 |         24 |        576 |
+| home\friends                                                                                 |          2 |        305 |          2 |         14 |        321 |
+| models                                                                                       |          5 |        243 |         10 |         27 |        280 |
+| screens                                                                                      |          2 |        243 |          1 |         13 |        257 |
+| widgets                                                                                      |          7 |        528 |          3 |         31 |        562 |
++----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                     | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\auth\LoginPage.dart               | Dart     |        160 |          1 |          7 |        168 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\auth\SignupPage.dart              | Dart     |        195 |          1 |          7 |        203 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\firebase_options.dart             | Dart     |         48 |         12 |          3 |         63 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\functions.dart                    | Dart     |         56 |          0 |          4 |         60 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\home\friends\friendRequest.dart   | Dart     |        131 |          0 |         10 |        141 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\home\friends\friendsPage.dart     | Dart     |        174 |          2 |          4 |        180 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\home\homePage.dart                | Dart     |        243 |          2 |         10 |        255 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\main.dart                         | Dart     |         68 |          1 |          6 |         75 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\models\chat.dart                  | Dart     |         32 |          0 |          3 |         35 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\models\chatProvider.dart          | Dart     |        181 |          0 |         18 |        199 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\models\globalProvider.dart        | Dart     |          5 |          1 |          2 |          8 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\models\message.dart               | Dart     |         12 |          0 |          2 |         14 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\models\user.dart                  | Dart     |         13 |          9 |          2 |         24 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\screens\chatScreen.dart           | Dart     |         98 |          1 |          7 |        106 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\screens\showUserScreen.dart       | Dart     |        145 |          0 |          6 |        151 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\chatTextBar.dart          | Dart     |         54 |          1 |          3 |         58 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\drawerWidget.dart         | Dart     |        176 |          0 |          8 |        184 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\menuTile.dart             | Dart     |         19 |          0 |          3 |         22 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\messageWidget.dart        | Dart     |         57 |          0 |          3 |         60 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\pickImageBottomSheet.dart | Dart     |         60 |          1 |          4 |         65 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\textform.dart             | Dart     |         56 |          1 |          3 |         60 |
+| d:\Workstation\vscode_projects\flutter\chatapp_release\lib\widgets\usersSearch.dart          | Dart     |        106 |          0 |          7 |        113 |
+| Total                                                                                        |          |      2,089 |         33 |        122 |      2,244 |
++----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
